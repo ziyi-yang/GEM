@@ -12,12 +12,31 @@ We propose a simple and robust non-parameterized approach for building sentence 
 
 * Python 3.7
 
-* numpy
+* Numpy 1.17.0
 
-* scipy
+* Scipy 1.4.1
 
 ## Instructions for Running GEM on STS benchmarks
 
 1. First download word vectors [here](https://drive.google.com/drive/folders/1FB5xJ1O8zZ8PiKygp0J7P9mShHv5AunI?usp=sharing). Unzip and rename it to data.
 
 2. To test on STS benchmarks dev, python code/encoder.py
+
+## References
+If you find GEM useful for you research, please cite our paper at:
+```bib
+@inproceedings{yang-etal-2019-parameter,
+    title = "Parameter-free Sentence Embedding via Orthogonal Basis",
+    author = "Yang, Ziyi  and
+      Zhu, Chenguang  and
+      Chen, Weizhu",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-1059",
+    doi = "10.18653/v1/D19-1059",
+    pages = "638--648",
+}
+```
