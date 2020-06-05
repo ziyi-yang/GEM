@@ -23,7 +23,7 @@ We propose a simple and robust non-parameterized approach for building sentence 
 2. To test on STS benchmarks dev, python code/encoder.py
 
 ## References
-If you find GEM useful for you research, please cite our paper at:
+If you find GEM useful for you research, please cite our paper:
 ```bib
 @inproceedings{yang-etal-2019-parameter,
     title = "Parameter-free Sentence Embedding via Orthogonal Basis",
