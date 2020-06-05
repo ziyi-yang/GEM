@@ -18,7 +18,7 @@ We propose a simple and robust non-parameterized approach for building sentence 
 
 ## Instructions for Running GEM on STS benchmarks
 
-1. First download word vectors [here](https://drive.google.com/drive/folders/1FB5xJ1O8zZ8PiKygp0J7P9mShHv5AunI?usp=sharing). Unzip and rename the folder to data.
+1. First download word vectors [here](https://drive.google.com/drive/folders/1FB5xJ1O8zZ8PiKygp0J7P9mShHv5AunI?usp=sharing). Put all the files to the folder data/.
 
 2. To test on STS benchmarks dev, python code/encoder.py
 
