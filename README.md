@@ -1,7 +1,7 @@
 # Parameter-free Sentence Embedding via Orthogonal Basis (GEM)
 
 The official implementations for the EMNLP 2019 paper (oral presentation) 
-[Parameter-free Sentence Embedding via Orthogonal Basis](https://arxiv.org/pdf/1810.00438.pdf), 
+[Parameter-free Sentence Embedding via Orthogonal Basis](https://arxiv.org/pdf/1810.00438.pdf) 
 
 [__Ziyi Yang__](https://web.stanford.edu/~zy99/), [__Chenguang Zhu__](https://cs.stanford.edu/people/cgzhu/), __Weizhu Chen__
 
